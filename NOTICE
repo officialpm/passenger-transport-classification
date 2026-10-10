@@ -1,0 +1,6 @@
+Passenger transport classification
+Copyright 2026 Parth Maniar
+Original code and documentation: Apache-2.0.
+Official Spaceship Titanic dataset: CC BY 4.0; data not bundled.
+CatBoost, LightGBM, scikit-learn, NumPy, pandas and Matplotlib retain their own licenses.
+No copied test labels, external predictions or third-party notebook implementation.
